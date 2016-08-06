@@ -9,5 +9,4 @@
     "wsextservice" : "local_mobile",
     "presets" : {"url": "http://hortskills.com.au", "username": ""},
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile"
 }
