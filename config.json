@@ -9,7 +9,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "presets" : {"url": "http://hortskills.com.au", "username": ""},
-    "siteurl" : "http://hortskills.com.au",
     "sync_ws_on" : true,
     "sync_css_on" : true,
     "sync_cron": 300000,
